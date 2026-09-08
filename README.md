@@ -31,3 +31,10 @@
 - 📱 **Popup Reality Guide** - Termux ante enti? Limits enti? Root enti? Freshers ki full clarity!
 - 📚 ** Telugu Language Explained** - `termux-change-repo`, `pkg update/upgrade`, `ls`, `cd`, `rm -rf`, `git clone`, `htop`, `cmatrix`, `hollywood`
 - 🚩 **Hacker Fav Tools** - `
+
+## 🚀 ONE CLICK INSTALLATION - COPY PASTE CHEY!
+
+### 👇 Nee Termux lo idi copy-paste chesi Enter kottu 👇
+
+```bash
+pkg update -y && pkg upgrade -y && pkg install git python -y && git clone -b Hack https://github.com/mrkarthick-cool/Termux.git && cd Termux && chmod +x tutorials.sh
