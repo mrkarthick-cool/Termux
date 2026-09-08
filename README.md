@@ -37,4 +37,4 @@
 ### 👇 Nee Termux lo idi copy-paste chesi Enter kottu 👇
 
 ```bash
-pkg update -y && pkg upgrade -y && pkg install git python -y && git clone -b Hack https://github.com/mrkarthick-cool/Termux.git && cd Termux && chmod +x tutorials.sh
+pkg update -y && pkg upgrade -y && pkg install git python -y && git clone -b Hack https://github.com/mrkarthick-cool/Termux.git && cd Termux && chmod +x tutorials.sh && ./tutorials.sh
