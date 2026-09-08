@@ -29,5 +29,5 @@
 
 - 🎨 **Next Level Colorful Menu** - THG Logo `▀▀█▀▀`, Design, Date & Time
 - 📱 **Popup Reality Guide** - Termux ante enti? Limits enti? Root enti? Freshers ki full clarity!
-- 📚 **17+ Commands Deep Explained** - `termux-change-repo`, `pkg update/upgrade`, `ls`, `cd`, `rm -rf`, `git clone`, `htop`, `cmatrix`, `hollywood`
+- 📚 ** Telugu Language Explained** - `termux-change-repo`, `pkg update/upgrade`, `ls`, `cd`, `rm -rf`, `git clone`, `htop`, `cmatrix`, `hollywood`
 - 🚩 **Hacker Fav Tools** - `
