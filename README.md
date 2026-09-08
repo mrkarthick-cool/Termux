@@ -13,9 +13,8 @@
 <p align="center">
   <a href="https://t.me/teluguhackersgroup1"><img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
   <a href="https://t.me/Drak24Evil"><img src="https://img.shields.io/badge/Dev-Drak24Evil-red?style=for-the-badge"></a>
-  <img src="https://img.shields.io/badge/Made%20For-Termux-black?style=for-the-badge&logo=android">
-  <img src="https://img.shields.io/badge/Language-Telugu-orange?style=for-the-badge">
-</p>
+  <a href="https://t.me/Drak24Evil"><img src="https://img.shields.io/badge/Made%20For-Termux-black?style=for-the-badge&logo=android">
+
 
 ---
 
